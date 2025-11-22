@@ -18,8 +18,8 @@ This project fulfills **all requirements** of the CodeAtRandom Full Stack Develo
 
 ## 📁 Folder Structure
 
-/frontend → React + Vite + TypeScript (user interface)
-/backend → Node.js + Express (APIs: skill-gap, roadmap, news)
+### /frontend → React + Vite + TypeScript (user interface)
+### /backend → Node.js + Express (APIs: skill-gap, roadmap, news)
 
 ---
 
