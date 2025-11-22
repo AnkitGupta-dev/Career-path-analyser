@@ -9,10 +9,10 @@ This project fulfills **all requirements** of the CodeAtRandom Full Stack Develo
 ## 🚀 Live Demo (Frontend + Backend)
 
 ### 🔗 Frontend (Vercel)
-👉 
+👉 https://career-path-analyser.vercel.app/
 
 ### 🔗 Backend (Render / Railway)
-👉 
+👉 https://career-path-analyser.onrender.com
 
 ---
 
